@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **alokgautam02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Sb73aU63GaVg0n53PQ74o9EmqCGaMYrs/view?usp=drive_link](https://drive.google.com/file/d/1Sb73aU63GaVg0n53PQ74o9EmqCGaMYrs/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pto4j3e_h0y87b-xwSmPyFIrCGh1HJU5/view]
+- (https://drive.google.com/file/d/1pto4j3e_h0y87b-xwSmPyFIrCGh1HJU5/view)
 
 - ⚡ Fun fact **I'm a coding enthusiast who's conquered over 1000 Data Structures and Algorithms (DSA) questions on LeetCode! When I'm not diving deep into problem-solving, you'll find me exploring the latest tech trends, always eager to learn and embrace new technologies**
 
